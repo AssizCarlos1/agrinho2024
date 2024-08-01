@@ -20,6 +20,11 @@ h2 {
     margin: 0;
 }
 
+ul {
+    color: black;
+    forced-color-adjust: black;
+}
+
 main {
     max-width: 800px;
     margin: 0 auto;
